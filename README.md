@@ -1,2 +1,2 @@
-# Bienvenido(a) a Github
-Este repositorio es una muestra de cómo iniciar repositorios en esta plataforma y los beneficios en el desarrollo de un proyecto
+# Bienvenido(a) a Github - version botón
+Este repositorio muestra los estilos creados para el botón y este elemento añadido a la página principal. El texto de dicha página también está editado
